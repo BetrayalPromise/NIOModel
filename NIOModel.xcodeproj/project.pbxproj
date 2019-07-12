@@ -9,11 +9,6 @@
 /* Begin PBXBuildFile section */
 		6FE55D7622D75238002E84F8 /* NIOModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FE55D7422D75238002E84F8 /* NIOModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6FE55D7D22D7524D002E84F8 /* NIOModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE55D7C22D7524D002E84F8 /* NIOModel.swift */; };
-		6FE55D8522D75280002E84F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE55D8422D75280002E84F8 /* AppDelegate.swift */; };
-		6FE55D8722D75280002E84F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE55D8622D75280002E84F8 /* ViewController.swift */; };
-		6FE55D8A22D75280002E84F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FE55D8822D75280002E84F8 /* Main.storyboard */; };
-		6FE55D8C22D75281002E84F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FE55D8B22D75281002E84F8 /* Assets.xcassets */; };
-		6FE55D8F22D75281002E84F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FE55D8D22D75281002E84F8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,24 +16,10 @@
 		6FE55D7422D75238002E84F8 /* NIOModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NIOModel.h; sourceTree = "<group>"; };
 		6FE55D7522D75238002E84F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FE55D7C22D7524D002E84F8 /* NIOModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NIOModel.swift; sourceTree = "<group>"; };
-		6FE55D8222D75280002E84F8 /* NIOModelExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NIOModelExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6FE55D8422D75280002E84F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6FE55D8622D75280002E84F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6FE55D8922D75280002E84F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6FE55D8B22D75281002E84F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6FE55D8E22D75281002E84F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6FE55D9022D75281002E84F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		6FE55D6E22D75238002E84F8 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6FE55D7F22D75280002E84F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -52,7 +33,6 @@
 			isa = PBXGroup;
 			children = (
 				6FE55D7322D75238002E84F8 /* NIOModel */,
-				6FE55D8322D75280002E84F8 /* NIOModelExample */,
 				6FE55D7222D75238002E84F8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				6FE55D7122D75238002E84F8 /* NIOModel.framework */,
-				6FE55D8222D75280002E84F8 /* NIOModelExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,19 +53,6 @@
 				6FE55D7522D75238002E84F8 /* Info.plist */,
 			);
 			path = NIOModel;
-			sourceTree = "<group>";
-		};
-		6FE55D8322D75280002E84F8 /* NIOModelExample */ = {
-			isa = PBXGroup;
-			children = (
-				6FE55D8422D75280002E84F8 /* AppDelegate.swift */,
-				6FE55D8622D75280002E84F8 /* ViewController.swift */,
-				6FE55D8822D75280002E84F8 /* Main.storyboard */,
-				6FE55D8B22D75281002E84F8 /* Assets.xcassets */,
-				6FE55D8D22D75281002E84F8 /* LaunchScreen.storyboard */,
-				6FE55D9022D75281002E84F8 /* Info.plist */,
-			);
-			path = NIOModelExample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,23 +87,6 @@
 			productReference = 6FE55D7122D75238002E84F8 /* NIOModel.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		6FE55D8122D75280002E84F8 /* NIOModelExample */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 6FE55D9322D75281002E84F8 /* Build configuration list for PBXNativeTarget "NIOModelExample" */;
-			buildPhases = (
-				6FE55D7E22D75280002E84F8 /* Sources */,
-				6FE55D7F22D75280002E84F8 /* Frameworks */,
-				6FE55D8022D75280002E84F8 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = NIOModelExample;
-			productName = NIOModelExample;
-			productReference = 6FE55D8222D75280002E84F8 /* NIOModelExample.app */;
-			productType = "com.apple.product-type.application";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -151,9 +100,6 @@
 					6FE55D7022D75238002E84F8 = {
 						CreatedOnToolsVersion = 10.2.1;
 						LastSwiftMigration = 1020;
-					};
-					6FE55D8122D75280002E84F8 = {
-						CreatedOnToolsVersion = 10.2.1;
 					};
 				};
 			};
@@ -171,7 +117,6 @@
 			projectRoot = "";
 			targets = (
 				6FE55D7022D75238002E84F8 /* NIOModel */,
-				6FE55D8122D75280002E84F8 /* NIOModelExample */,
 			);
 		};
 /* End PBXProject section */
@@ -181,16 +126,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6FE55D8022D75280002E84F8 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6FE55D8F22D75281002E84F8 /* LaunchScreen.storyboard in Resources */,
-				6FE55D8C22D75281002E84F8 /* Assets.xcassets in Resources */,
-				6FE55D8A22D75280002E84F8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,35 +140,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6FE55D7E22D75280002E84F8 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6FE55D8722D75280002E84F8 /* ViewController.swift in Sources */,
-				6FE55D8522D75280002E84F8 /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		6FE55D8822D75280002E84F8 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6FE55D8922D75280002E84F8 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		6FE55D8D22D75281002E84F8 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6FE55D8E22D75281002E84F8 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		6FE55D7722D75238002E84F8 /* Debug */ = {
@@ -409,40 +316,6 @@
 			};
 			name = Release;
 		};
-		6FE55D9122D75281002E84F8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = NIOModelExample/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.nio.NIOModelExample;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		6FE55D9222D75281002E84F8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = NIOModelExample/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.nio.NIOModelExample;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -460,15 +333,6 @@
 			buildConfigurations = (
 				6FE55D7A22D75238002E84F8 /* Debug */,
 				6FE55D7B22D75238002E84F8 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		6FE55D9322D75281002E84F8 /* Build configuration list for PBXNativeTarget "NIOModelExample" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				6FE55D9122D75281002E84F8 /* Debug */,
-				6FE55D9222D75281002E84F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
