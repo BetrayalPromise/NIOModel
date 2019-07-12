@@ -1,0 +1,52 @@
+BCSymbolMap Version: 2.0
+___swift_allocate_boxed_opaque_existential_0
+_$s10Foundation4DataVSgWOe
+_$s10Foundation4DataV15_RepresentationOWOe
+_$s10Foundation4DataV15_RepresentationOWOy
+_$sSSSgWOe
+_$ss23_ContiguousArrayStorageCyypGML
+_$sS2SSysWL
+__swift_FORCE_LOAD_$_swiftUIKit_$_NIOModel
+__swift_FORCE_LOAD_$_swiftFoundation_$_NIOModel
+__swift_FORCE_LOAD_$_swiftDarwin_$_NIOModel
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_NIOModel
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_NIOModel
+__swift_FORCE_LOAD_$_swiftDispatch_$_NIOModel
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_NIOModel
+__swift_FORCE_LOAD_$_swiftCoreImage_$_NIOModel
+__swift_FORCE_LOAD_$_swiftMetal_$_NIOModel
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_NIOModel
+___swift_reflection_version
+Apple LLVM version 10.0.1 (clang-1001.0.46.5)
+<swift-imported-modules>
+/Users/chunyang.li.o/Desktop/GitManage/NIOModel
+Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)
+/Users/chunyang.li.o/Desktop/GitManage/NIOModel/NIOModel/NIOModel.swift
+toModel
+NIOModel.swift
+/Users/chunyang.li.o/Desktop/GitManage/NIOModel/NIOModel
+_allocateUninitializedArray
+<compiler-generated>
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$ss23_ContiguousArrayStorageCyypGMa
+init
+$sS2SSysWl
+$ss16IndexingIteratorVyxGStsSt4next7ElementQzSgyFTWSaySo20NSJSONWritingOptionsVG_Tg5
+$sSiSQsSQ2eeoiySbx_xtFZTW
+$sSayxGSlsSl9formIndex5aftery0B0Qzz_tFTWSo20NSJSONWritingOptionsV_Tg5
+$sSa9formIndex5afterySiz_tFSo20NSJSONWritingOptionsV_Tg5
+insert
+formUnion
+$sSuSzsSz1ooiyxx_xtFZTW
+$sSayxGSlsSly7ElementQz5IndexQzcirTWSo20NSJSONWritingOptionsV_Tg5
+$sSayxSicirSo20NSJSONWritingOptionsV_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSo20NSJSONWritingOptionsV_Tg5
+$sSayxGSlsSl8endIndex0B0QzvgTWSo20NSJSONWritingOptionsV_Tg5
+$sSa8endIndexSivgSo20NSJSONWritingOptionsV_Tg5
+$sSa9_getCountSiyFSo20NSJSONWritingOptionsV_Tg5
+toObject
+toString
+toData
+__swift_allocate_boxed_opaque_existential_0
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/chunyang.li.o/Library/Developer/Xcode/DerivedData/NIOModel-atgotbagonzzibagbstllgdlkolk/Build/Intermediates.noindex/ArchiveIntermediates/NIOModel/IntermediateBuildFilesPath/NIOModel.build/Release-iphoneos/NIOModel.build/DerivedSources/NIOModel_vers.c

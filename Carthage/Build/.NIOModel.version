@@ -8,11 +8,11 @@
   "tvOS" : [
 
   ],
-  "commitish" : "1.0.1",
+  "commitish" : "3629d0ced601f6b64eadedbff7d21202982e7dde",
   "iOS" : [
     {
       "name" : "NIOModel",
-      "hash" : "d93017738b6b5250151b5b76daefeed3e66a527e0b4068e2595b4d656ad456c6",
+      "hash" : "ceaa890a619a8f0301a4e5a0f6351b5b904d9389ef9b8a314b289e39f4cb291a",
       "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
     }
   ]
