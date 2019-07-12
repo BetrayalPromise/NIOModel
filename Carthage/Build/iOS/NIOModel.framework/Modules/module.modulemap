@@ -1,0 +1,11 @@
+framework module NIOModel {
+  umbrella header "NIOModel.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOModel.Swift {
+    header "NIOModel-Swift.h"
+    requires objc
+}
