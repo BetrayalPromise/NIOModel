@@ -107,3 +107,9 @@ let m: School = School()
 m.toObject()
 ```
 
+## 引入工具
+```ruby
+touch Cartfile
+echo 'git "https://github.com/BetrayalPromise/NIOModel.git"' > Cartfile
+carthage update --platform iOS
+```
