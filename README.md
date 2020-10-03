@@ -1,4 +1,4 @@
-# 所有的功能都集成在[SwiftModel](https://github.com/dgrzeszczak/KeyedCodable.git)该工具已经停止更新
+# 所有的功能都集成在[SwiftModel](https://github.com/BetrayalPromise/SwiftModel.git)该工具已经停止更新
 # NIOModel大法好
 
 ## Data -> String -> Object(iOS中成为Dictionary) -> Model
